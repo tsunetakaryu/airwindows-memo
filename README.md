@@ -6,7 +6,9 @@ Airwindows 是由 Chris Johnson 一人独立开发的一整套音频效果器插
 
 http://www.airwindows.com
 
+插件的档案库正在创建中：https://github.com/tsunetakaryu/airwindows-memo/wiki/
 
+如果还没有列出您常用的插件，可以通过 Issues 的方法请求编写。
 
 ## 二、没有 GUI 的 Airwindows
 
